@@ -73,7 +73,7 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	img_image="alpkey.png";
+	img_image="Alpkey.png";
 	add();
 
 }
